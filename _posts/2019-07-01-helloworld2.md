@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 # Test Post 2
 
