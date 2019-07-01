@@ -19,7 +19,7 @@ title: Home
   <body>
     {% for post in site.posts %}
       <div class="postContainer">
-        <h5>{{post.date | date: '%d %B, %Y'}}</h5>
+        <h5>{{ post.date | date_to_long_string }}</h5>
         <p>
             {{post.content}}
         </p>
