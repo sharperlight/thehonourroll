@@ -1,53 +1,51 @@
-<!doctype html>
 <style>
-
-.sideNav {
-  height: 100%;
-  width: 250px;
-  z-index: 1;
+.navigation {
+  font-size: 20px;
+  padding-top: 5%;
 }
 
-.content {
-  flex-grow: 1;
-  width: 300px;
+.author {
+  padding-bottom: 20%;
 }
 
-.page {
-  padding-left: 20%;
-  padding-right: 20%;
-  background-color: #FFFFFF;
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+}
+
+/* This stuff is for the highlight box */
+li a {
+  display: block;
+  width: 85px;
   color: #000000;
-  font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif;
+  padding-bottom: 5%;
+  text-decoration:none;
 }
 
-.mainBody {
-  display: flex;
-}
-
-.banner {
-  margin-top: 10%;
-  margin-bottom: 10%;
+/*this is the highlight box colour*/
+a:hover {
+  background-color: #606870;
 }
 </style>
 
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body class="page">
-    <div class="banner">
-      {% include banner.html %}
-    </div>
-    <div class="mainBody">
-      <div class="sideNav">
-        {% include navigation.html %}
-      </div>
-      <div class="content">
-        <p>{{ page.date | date_to_string }}</p>
+<div class="navigation">
+  <p class="author">By David Murakami</p>
+<!-- this is where to add extra pages on the index -->
+  <ul>
+    <li><a href="/thehonourroll/">Home</a></li>
+    <li><a href="/thehonourroll/about.html">About</a></li>
+    <li><a href="/thehonourroll/ta_material.html">Resources</a></li>
+  </ul>
+</div>
 
-        {{ post.content }}
+<!doctype html>
+<html>
+  <body>
+      <div class="postContainer">
+        <p>{{ post.date | date: '%d %B, %Y' }}</p>
+        <p>{{ post.content }}</p>
       </div>
-    </div>
   </body>
 </html>
