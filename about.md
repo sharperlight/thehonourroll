@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: other
 title: About
 ---
 ## About
@@ -7,9 +7,11 @@ title: About
 The Honour Roll is a personal blog run by me. With a formal background in macroeconomics, a lot of the topics I like to share and discuss are of an economic and political nature. However, I'm also greatly intrigued by technology -- mostly the rumblings and news that comes out of Silicon Valley.
 
 My contact details as well as full appointment history can be found from the following links:
-- [E-mail address](dh.murakami@keio.jp)
-- My CV as a [one page PDF](https://drive.google.com/open?id=1NcfCOuNB1ws3utBeYd1FjKn0C5ODY6P8) or [HTML extended version](https://hirothreading.github.io/thehonourroll/htmlcv.html)
-- My [LinkedIn page](https://www.linkedin.com/in/d-h-murakami/)
+[E-mail address](dh.murakami@keio.jp)
+
+My CV as a [one page PDF](https://drive.google.com/open?id=1NcfCOuNB1ws3utBeYd1FjKn0C5ODY6P8) or [HTML extended version](https://hirothreading.github.io/thehonourroll/htmlcv.html)
+
+My [LinkedIn page](https://www.linkedin.com/in/d-h-murakami/)
 
 I was born and raised in Perth, Australia, where I had a fairly quiet and working-class upbringing. My childhood was spent mostly on video games, reading fiction, watching sci-fi, and watching breakfast TV anime shows. Standard affair. Video games and an obsession with how things work led me to get into hobbyist PC building, and the start of my interest in technology -- specifically integrated circuits, semiconductors, and system design.
 
@@ -21,4 +23,4 @@ But economics remained front and centre my academic focus while at university. I
 
 I became increasingly curious and interested in individuals who held a strongly-held vision for how they believed the world worked or ought to work. My economic beliefs started to form by reading into John Locke, David Hume, John Maynard Keynes, and more contemporary work from Paul Samuelson, Robert Solow, Robert Lucas, and Thomas Piketty; and more generally I enjoyed the work of Christopher Hitchens, Ivan Illich, Paulo Freire, and A. C. Grayling. Mind you, my interest in visionaries reach beyond the realms of just economics and politics. Commercial visionaries Steve Jobs and his former-right hand man, Jony Ive, and scientists such as Alan Turing and Stephen Hawking also greatly interest me too.
 
-I won't bore you with any career or academic details here. I think it's important that I explain how I view the world, and how I process the sheer amount of information we all come across on a day to day basis. Understanding how things work -- or the firm belief that we may have in how the world ought to work -- has continued to motivate and underline every decision I make, both in my career and personal life. Even when things may seem chaotic and disorderly, I believe it's all just one necessary journey towards a stable, new equilibrium. 
+I won't bore you with any career or academic details here. I think it's important that I explain how I view the world, and how I process the sheer amount of information we all come across on a day to day basis. Understanding how things work -- or the firm belief that we may have in how the world ought to work -- has continued to motivate and underline every decision I make, both in my career and personal life. Even when things may seem chaotic and disorderly, I believe it's all just one necessary journey towards a stable, new equilibrium.
