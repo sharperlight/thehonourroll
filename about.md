@@ -7,6 +7,7 @@ title: About
 The Honour Roll is a personal blog run by me. With a formal background in macroeconomics, a lot of the topics I like to share and discuss are of an economic and political nature. However, I'm also greatly intrigued by technology -- mostly the rumblings and news that comes out of Silicon Valley.
 
 My contact details as well as full appointment history can be found from the following links:
+
 [E-mail address](dh.murakami@keio.jp)
 
 My CV as a [one page PDF](https://drive.google.com/open?id=1NcfCOuNB1ws3utBeYd1FjKn0C5ODY6P8) or [HTML extended version](https://hirothreading.github.io/thehonourroll/htmlcv.html)
