@@ -5,7 +5,7 @@ layout: other
 
 On this page you will find resources I have used and continue to use in my various capacities as a teaching and research assistant. Please feel free to use and share these notes as you see fit.
 
-### Keio university
+### Keio University
 #### Introductory Mathematics for Economists
 [Part 1: Introduction](https://drive.google.com/open?id=1GOpSwgBPaVihdQmI66uwlYu7eaT8QwXw)
 
