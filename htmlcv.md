@@ -3,7 +3,7 @@ layout: other
 ---
 ## Curriculum Vitae
 
-### Current Appointments
+### Current Appointment
 Technical Expert, Apple (2018.12 - Present)
 
 
@@ -47,7 +47,6 @@ Parliamentary Fellow, The National Diet of Japan (2016.2 - 2016.6)
 The Office of the Honourable Hideki Makihara; The Office of the Honourable Motohisa Furukawa
 
 Policy Officer, The Department of the Premier and Cabinet, The State Government of Western Australia (2015.1 - 2016.2)
-
 Economic and Deregulation Subdivision; Office of Security and Emergency Coordination; and Lands, Approvals, and Native Title Unit
 
 Japanese Language Peer Tutor, The University of Western Australia (2012.1 - 2012.12)
