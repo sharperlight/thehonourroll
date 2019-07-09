@@ -11,7 +11,7 @@ The 13-inch MacBook Air is now the entry-level MacBook, available from just US$9
 
 The 13-inch MacBook Pro with two Thunderbolt 3 ports -- dubbed the MacBook Escape by Apple fans -- is no longer available. Again, this should've happened with the launch of 2018 MacBook Air.
 
-The 13-inch MacBook Pro with Touch Bar and four Thunderbolt 3 ports is now available from US$1,299. This means that *every* MacBook Pro now comes with four Thunderbolt 3 ports, Touch ID, and the Touch Bar. Hallelujah, we finally have some consistency across the MacBook Pro lineup!
+The 13-inch MacBook Pro with Touch Bar and four Thunderbolt 3 ports is now available from US$1,299. This means that **every** MacBook Pro now comes with four Thunderbolt 3 ports, Touch ID, and the Touch Bar. Hallelujah, we finally have some consistency across the MacBook Pro lineup!
 
 A lot of these changes should've happened a long time ago, but perhaps were delayed or deferred until Apple could hit sufficient manufacturing yields and margins.[^1]
 Unfortunately, the entire MacBook lineup still features Apple's [much maligned butterfly keyboards](https://support.apple.com/keyboard-service-program-for-mac-notebooks), so we'll have to wait a little while longer to get new keyboards. I expect this to happen either the end of this year, or early next year when Apple moves to a new chassis across its MacBook lineups.
@@ -19,5 +19,9 @@ Unfortunately, the entire MacBook lineup still features Apple's [much maligned b
 But, we should focus on the positives of today's shuffling: the MacBook lineup finally makes some damn sense. Students and people who want portable macOS should aim for the MacBook Air, working professionals take the 13-inch MacBook Pro, and content creators and developers can claim the 15-inch MacBook Pro.
 
 Following updates to the iMac, Mac mini, and Mac Pro, 2019 is shaping up to be a great year for the Mac.
+
+*Edit*: HomePod is **finally** [available in Japan](https://www.apple.com/jp/homepod/).
+
+The good news for the Mac doesn't end. [As reported by MacRumors](https://www.macrumors.com/2019/07/09/storage-upgrades-price-drop/), Apple has cut the price of flash storage upgrades across its entire Mac lineup.
 
 [^1]: The views expressed here are purely my own, and do not reflect the views or opinions of Apple.
