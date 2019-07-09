@@ -8,7 +8,7 @@ Technical Expert, Apple (2018.12 - Present)
 
 
 ### Current Extra Curricular Activities
-Committee Member, Australia-Japan Youth Dialogue (2016.12 - Present)
+Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - Present)
 
 
 ### Current Papers and Projects
@@ -21,23 +21,23 @@ Committee Member, Australia-Japan Youth Dialogue (2016.12 - Present)
 
 ### Education
 Master of Arts (Economics), Keio University (2017.4 - 2019.3)  
-Dissertation: "Productivity Implications over the Life-Cycle"  
+Dissertation: ["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql)  
 Research Area(s): Macroeconomics, Monetary Policy, DSGE Models
 
-National Parliamentary Fellowship Program (Japan), Australian National University (2016.2 - 2016.6)
+[National Parliamentary Fellowship Program (Japan)](http://asiapacific.anu.edu.au/news-events/all-stories/japan-national-parliamentary-fellowships-program), Australian National University (2016.2 - 2016.6)
 
 Summer Session in Japanese Language and Culture, Sophia University (2014.6 - 2014.7)
 
 Asian Studies Program, Kansai Gaidai University (2010.1 - 2010.12)
 
 Bachelor of Arts and Bachelor of Economics (Honours), The University of Western Australia (2008.2 - 2013.12)  
-Dissertation: "Strategic Monetary Policy and the Global Economic Game"  
+Dissertation: ["Strategic Monetary Policy and the Global Economic Game"](https://drive.google.com/open?id=1B28ZC2KUNb996cj9323pzcOq12-MrlYp)  
 Major(s): Economics, Quantitative Economics, Investment Finance, Japanese Studies
 
 
 ### Past Appointments
 Teaching Assistant, Faculty of Economics, Keio University (2017.9 - 2019.4)  
-Facilitated "Introductory Macroeconomics" with Professor Ippei Fujiwara; unit coordinator for "Introductory Mathematics for Economists".
+Facilitated "Introductory Macroeconomics" with Professor Ippei Fujiwara; unit coordinator for "Introductory Mathematics for Economists"
 
 Technical Specialist, Apple (2017.5 - 2018.12)
 
@@ -56,7 +56,9 @@ Facilitated "ECON1101 Prices & Markets", "ECON1111 Quantitative Methods for Busi
 
 
 ### Awards and Scholarships
-Kei Mori and L.R. Klein Scholarship, Mori Trust and Keio University (2017.6 - Present)
+Keio University Graduate School Scholarship, Keio University (2018.9 - 2019.3)
+
+Kei Mori and L.R. Klein Scholarship, Mori Trust and Keio University (2017.6 - 2018.8)
 
 Honours Research Scholarship, The University of Western Australia (2015.1)
 
