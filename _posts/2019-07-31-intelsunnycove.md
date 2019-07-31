@@ -11,7 +11,7 @@ But, more immediate than whatever projects Koduri and Keller are working on, is 
 
 ![Intel's Sunny Cove microarchitecture](https://hirothreading.github.io/thehonourroll//assets/images/intelsunnycove.jpg){:height="300px" width="525px"}   
 
-Anandtech has prepare a fantastic [deep dive](https://www.anandtech.com/show/14514/examining-intels-ice-lake-microarchitecture-and-sunny-cove) on Sunny Cove. If you have a free afternoon, I definitely recommend taking a good read. According to this Anandtech report, Intel has rejigged their CPU architecture in dramatic fashion -- perhaps as big of a change since the Nehalem to Sandy Bridge transition!
+Anandtech has prepared a fantastic [deep dive](https://www.anandtech.com/show/14514/examining-intels-ice-lake-microarchitecture-and-sunny-cove) on Sunny Cove. If you have a free afternoon, I definitely recommend taking a good read. According to this Anandtech report, Intel has rejigged their CPU architecture in dramatic fashion -- perhaps as big of a change since the Nehalem to Sandy Bridge transition!
 
 If Intel can deliver on all their promises, then we're looking at some significant performance, power efficiency, and platform/package efficiency gains. Average instruction per-clock gains are predicted to be roughly 18% over Skylake, on-die integration of Thunderbolt 3 (and hence a doubling of PCIe lanes from the CPU die), a revamped cache and memory controller system, and a large increase in GPU resources all point toward a very impressive new architecture.
 
