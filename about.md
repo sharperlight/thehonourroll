@@ -4,7 +4,7 @@ title: About
 ---
 ## About
 
-The Honour Roll is a personal blog run by me. With a formal background in macroeconomics, a lot of the topics I like to share and discuss are of an economic and political nature. However, I'm also greatly intrigued by technology -- mostly the rumblings and news that comes out of Silicon Valley.
+The Honour Roll is a personal blog run by me, and a lot of the topics I like to share and discuss are of an economic and political nature. However, I'm also greatly intrigued by technology -- mostly the rumblings and news that comes out of Silicon Valley.
 
 My contact details as well as full appointment history can be found from the following links:
 
@@ -24,4 +24,4 @@ But economics remained front and centre my academic focus while at university. I
 
 I became increasingly curious and interested in individuals who held a strongly-held vision for how they believed the world worked or ought to work. My economic beliefs started to form by reading into John Locke, David Hume, John Maynard Keynes, and more contemporary work from Paul Samuelson, Robert Solow, Robert Lucas, and Thomas Piketty; and more generally I enjoyed the work of Christopher Hitchens, Ivan Illich, Paulo Freire, and A. C. Grayling. Mind you, my interest in visionaries reach beyond the realms of just economics and politics. Commercial visionaries Steve Jobs and his former-right hand man, Jony Ive, and scientists such as Alan Turing and Stephen Hawking also greatly interest me too.
 
-I won't bore you with any career or academic details here. I think it's important that I explain how I view the world, and how I process the sheer amount of information we all come across on a day to day basis. Understanding how things work -- or the firm belief that we may have in how the world ought to work -- has continued to motivate and underline every decision I make, both in my career and personal life. Even when things may seem chaotic and disorderly, I believe it's all just one necessary journey towards a stable, new equilibrium.
+I won't bore you with any career or academic details here. I think it's important that I explain how I view the world, and how I process the sheer amount of information we all come across on a day to day basis. Understanding how things work -- or the firm belief that we may have in how the world ought to work -- has continued to motivate and underline every decision I make, both in my career and personal life. Even when things may seem chaotic and disorderly, I believe it's all just one necessary journey towards a stable new equilibrium.
