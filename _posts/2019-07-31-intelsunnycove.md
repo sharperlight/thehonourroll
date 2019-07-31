@@ -9,7 +9,7 @@ I, however, believe that Intel will make a strong turnaround next year. This wil
 
 But, more immediate than whatever projects Koduri and Keller are working on, is the upcoming introduction and launch of Intel's new CPU microarchitecture. At long last, Skylake has a successor -- one that will also come out on Intel's perhaps still janky 10nm process. Say hello to Sunny Cove.
 
-![Intel's Sunny Cove microarchitecture](/assets/intelsunnycove.jpg)   
+![Intel's Sunny Cove microarchitecture](/assets/images/intelsunnycove.jpg)   
 
 Anandtech has prepare a fantastic [deep dive](https://www.anandtech.com/show/14514/examining-intels-ice-lake-microarchitecture-and-sunny-cove) on Sunny Cove. If you have a free afternoon, I definitely recommend taking a good read. According to this Anandtech report, Intel has rejigged their CPU architecture in dramatic fashion -- perhaps as big of a change since the Nehalem to Sandy Bridge transition!
 
