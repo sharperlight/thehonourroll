@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-08-01T00:41:36+09:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Intelsunnycove</title><link href="/2019/07/31/intelsunnycove.html" rel="alternate" type="text/html" title="Intelsunnycove" /><published>2019-07-31T00:00:00+09:00</published><updated>2019-07-31T00:00:00+09:00</updated><id>/2019/07/31/intelsunnycove</id><content type="html" xml:base="/2019/07/31/intelsunnycove.html">&lt;h2 id=&quot;intels-new-𝛍arch&quot;&gt;&lt;a href=&quot;https://www.anandtech.com/show/14514/examining-intels-ice-lake-microarchitecture-and-sunny-cove&quot;&gt;Intel’s New 𝛍arch&lt;/a&gt;&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-08-08T00:13:33+09:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Oxford</title><link href="/2019/08/07/oxford.html" rel="alternate" type="text/html" title="Oxford" /><published>2019-08-07T00:00:00+09:00</published><updated>2019-08-07T00:00:00+09:00</updated><id>/2019/08/07/oxford</id><content type="html" xml:base="/2019/08/07/oxford.html">&lt;h2 id=&quot;to-the-next-adventure&quot;&gt;To the Next Adventure&lt;/h2&gt;
+
+&lt;p&gt;It brings me great pleasure to belatedly announce to my dear friends and family, that I have been officially accepted as a graduate student into the University of Oxford. I will begin my studies at Oxford this September, with a Master of Philosophy (MPhil) in economics.&lt;/p&gt;
+
+&lt;p&gt;To say that this has been a long time coming would be an understatement. This announcement marks the achievement of a dream and goal that began over six years ago.&lt;/p&gt;
+
+&lt;p&gt;Further, and most importantly, being accepted into Oxford is not due to the efforts of me alone. I cannot stress this enough. I was well and truly supported, motivated, inspired, mentored, and challenged to get this far. The list of people who I wish to extend my most sincere thanks and appreciation is long. Chances are, if you’re reading this, you are one of the people I wish to thank.&lt;/p&gt;
+
+&lt;p&gt;To my amazing friends and family I grew up with, laughed with, worked with, and studied with in Perth, Osaka, Canberra, and Tokyo: &lt;strong&gt;Thank you!&lt;/strong&gt; Thank you so much.&lt;/p&gt;
+
+&lt;p&gt;More recently, I wish to express my most sincere gratitude to Professor Ippei Fujiwara. One of the most dedicated, passionate, sharpest and brightest individuals I’ve ever had the privilege of working with. I hope to continue his legacy and passion for research, teaching, and desire for knowledge. I’ve got big shoes to fill, but I approach the challenge with enthusiasm and boundless optimism.&lt;/p&gt;
+
+&lt;p&gt;But, it is also imperative to keep in mind that this is just another step – another journey – in the adventure of life. I look forward to discovering, learning, and achieving even bigger and better things – with all your support. I am absolutely certain that there will be good times and bad times. Times where I will fall, fail, and make mistakes. I ask that you continue to tolerate, teach, and help me with whatever comes next, together.&lt;/p&gt;</content><author><name></name></author><summary type="html">To the Next Adventure</summary></entry><entry><title type="html">Hiroshima</title><link href="/2019/08/06/hiroshima.html" rel="alternate" type="text/html" title="Hiroshima" /><published>2019-08-06T00:00:00+09:00</published><updated>2019-08-06T00:00:00+09:00</updated><id>/2019/08/06/hiroshima</id><content type="html" xml:base="/2019/08/06/hiroshima.html">&lt;h2 id=&quot;todays-the-day&quot;&gt;&lt;a href=&quot;http://hpmmuseum.jp/?lang=eng&quot;&gt;Today’s the Day&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Today marks 74 years since the bombing of Hiroshima. The first – and, tragically, not the last – time nuclear weapons were willingly dropped on a civilian population.&lt;/p&gt;
+
+&lt;p&gt;There is no justification for the mass murder of innocent civilians. Anyone attempting to do so is either an idiot or heinously evil.&lt;/p&gt;</content><author><name></name></author><summary type="html">Today’s the Day</summary></entry><entry><title type="html">Intelsunnycove</title><link href="/2019/07/31/intelsunnycove.html" rel="alternate" type="text/html" title="Intelsunnycove" /><published>2019-07-31T00:00:00+09:00</published><updated>2019-07-31T00:00:00+09:00</updated><id>/2019/07/31/intelsunnycove</id><content type="html" xml:base="/2019/07/31/intelsunnycove.html">&lt;h2 id=&quot;intels-new-𝛍arch&quot;&gt;&lt;a href=&quot;https://www.anandtech.com/show/14514/examining-intels-ice-lake-microarchitecture-and-sunny-cove&quot;&gt;Intel’s New 𝛍arch&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;In a change of pace, rather than talking about Apple, let’s talk about Intel (oh boy…). As many who have been following PC hardware recently would know, Intel has been struggling. They’ve been stuck on their 14nm process for years, their Skylake architecture is looking very long in the tooth, their consumer lineup is a horrible mess, AMD has become a very real threat in enterprise and server markets, and x86’s future remains as uncertain as ever.&lt;/p&gt;
 
@@ -121,54 +137,4 @@ But I say unto you, they are inseparable. Together they come, and when one sits 
 &lt;blockquote&gt;
   &lt;p&gt;Only when you are empty are you at standstill and balanced.&lt;br /&gt;
 When the treasure-keeper lifts you to weigh his gold and silver, needs must your joy or your sorrow rise or fall.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">“The Prophet” by Kahlil Gibran</summary></entry><entry><title type="html">Twocheersforanarchy</title><link href="/2019/07/13/twocheersforanarchy.html" rel="alternate" type="text/html" title="Twocheersforanarchy" /><published>2019-07-13T00:00:00+09:00</published><updated>2019-07-13T00:00:00+09:00</updated><id>/2019/07/13/twocheersforanarchy</id><content type="html" xml:base="/2019/07/13/twocheersforanarchy.html">&lt;h2 id=&quot;james-c-scott-two-cheers-for-anarchism&quot;&gt;&lt;a href=&quot;https://press.princeton.edu/titles/9816.html&quot;&gt;James C. Scott “Two Cheers for Anarchism”&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Probably the most critical text from Scott’s fantastic book. Apologies for the long read, but it is well worth it:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Public school was invented more or less at the same time as the large factory under a single roof, and the two institutions bear a strong family resemblance.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The school was, in a sense, a factory for the basic training of the minimal skills of numeracy and literacy necessary for an industrialising society.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Universal public education is, of course, designed to do far more than merely turn out the labour force required by industry. It is as much a political as an economic institution. It is designed to produce a patriotic citizen whose loyalty to the nation will trump regional and local identities of language, ethnicity and religion. The universal citizenship of revolutionary France had its counterpart in universal conscription. Manufacturing such patriotic citizens through the school system was accomplished less through the manifest curriculum than through its language of instruction, its standardisation and its implicit lessons in regimentation, authority and order.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The modern primary and secondary school system has been much altered by changing theories of pedagogy and, most especially, by affluence and the “youth culture” itself. But there is no mistaking its origins in the factory, if not the prison. Compulsory universal education, however democratising in one sense, has also meant that, with few exceptions, the students have to be there. The fact that attendance is not a choice, not an autonomous act, means that it starts out fundamentally on the wrong foot as a compulsory institution, with all the alienation that this duress implies, especially as children grow older.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The great tragedy of the public school system, however, is that it is by and large, a one product factory. This tendency has only been exacerbated by the push in recent decades for standardisation, measurement, testing and accountability. The resulting incentives for students, teachers, principals and whole school districts have had the effect of bending all efforts toward fashioning a standard product that satisfies the criteria the auditors have established.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;What is this product? It is a certain form of analytical intelligence, narrowly conceived, which can, it is assumed, be measured by tests. We know, of course, that there are many, many skills that valuable and important for a successful society that are not even remotely related to analytical intelligence, among them, artistic talent, imaginative intelligence, mechanical intelligence, musical and dance skills, creative intelligence, emotional intelligence, social skills and ethical intelligence. Some of these aptitudes find a place in extracurricular activities, especially in sports, but not in the measured and graded activities on which so much now depends for students, teachers and schools.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This monochromatic flattening of education is brought to a kind of apotheosis in educational systems like those in France, Japan, China and Korea, where the exercise culminates in a single examination on which one’s future mobility and life’s chances substantially depend. Here the scramble to get into the best-regarded schools, to find extra-hours tutoring, and to attend special exam-preparation cram courses reaches a fever pitch.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;How ironic it is that I, who write this, and virtually anyone who reads it, are the beneficiaries, the victors, of this rat race.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Those of us who “won” this race are the lifetime beneficiaries of opportunities and privileges that would not likely otherwise have come our way. We are also are likely to carry a lifetime sense of entitlement, superiority, accomplishment and self esteem that comes from this victory. Let us bracket, for the moment, the question of whether this dividend is justified and what it actually means in terms of our value to ourselves and others, and merely note that it represents a fund of social capital that adjusts the odds of financial and status mobility radically in our favour. This is a lifetime privilege extended to perhaps one-fifth at most of those the system turns out.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;And what of the rest? What of the, say, 80 percent who in effect lose the race? They carry less social capital; the odds are adjusted against them. Perhaps as important is the fact that they are likely to carry a lifelong sense of having been defeated, of being less valued, of thinking they are inferior and slow witted. This system effect further adjusts the odds against them. And yet, have we any rational reason to credit the judgements of a system that values such a narrow bandwidth of human talents and measures achievement within this band by the ability to sit successfully for an exam?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Those who do poorly on tests of analytical intelligence may be incredibly talented at one or more of the many forms of intelligence that are neither taught nor valued by the school system. What sort of a system is it that wastes these talents, that sends four-fifths of its students away with a permanent stigma in the eyes of society’s gatekeepers, and perhaps in their own eyes as well? Are the dubious benefits of the privileges and opportunities accorded a presumed “analytical intelligence elite” by this pedagogical tunnel vision worth so much social damage and waste?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Food for thought.&lt;/p&gt;</content><author><name></name></author><summary type="html">James C. Scott “Two Cheers for Anarchism”</summary></entry><entry><title type="html">Khanlabschool</title><link href="/2019/07/13/khanlabschool.html" rel="alternate" type="text/html" title="Khanlabschool" /><published>2019-07-13T00:00:00+09:00</published><updated>2019-07-13T00:00:00+09:00</updated><id>/2019/07/13/khanlabschool</id><content type="html" xml:base="/2019/07/13/khanlabschool.html">&lt;h2 id=&quot;salman-khan-rethinks-school&quot;&gt;&lt;a href=&quot;https://khanlabschool.org/wired&quot;&gt;Salman Khan Rethinks School&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;My second post today on education and pedagogy. This article is a fairly old piece, but it is nonetheless a good read. I also recommend the &lt;a href=&quot;https://www.ted.com/talks/sal_khan_let_s_teach_for_mastery_not_test_scores?language=en&quot;&gt;10-minute video available on TED&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Salman Khan Rethinks School</summary></entry></feed>
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">“The Prophet” by Kahlil Gibran</summary></entry></feed>
