@@ -20,6 +20,8 @@ Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - Pres
 
 
 ### Education
+Master of Philosophy (Economics), University of Oxford (2019.9 - Present)
+
 Master of Arts (Economics), Keio University (2017.4 - 2019.3)  
 Dissertation: ["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql)  
 Research Area(s): Macroeconomics, Monetary Policy, DSGE Models
