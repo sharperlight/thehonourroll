@@ -58,6 +58,8 @@ Facilitated "ECON1101 Prices & Markets", "ECON1111 Quantitative Methods for Busi
 
 
 ### Awards and Scholarships
+Japan-IMF Scholarship Program, International Monetary Fund (2019.1 - Present)
+
 Keio University Graduate School Scholarship, Keio University (2018.9 - 2019.3)
 
 Kei Mori and L.R. Klein Scholarship, Mori Trust and Keio University (2017.6 - 2018.8)
