@@ -3,9 +3,6 @@ layout: other
 ---
 ## Curriculum Vitae
 
-### Current Appointment
-Technical Expert, Apple (2018.12 - Present)
-
 
 ### Current Extra Curricular Activities
 Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - Present)
@@ -38,6 +35,8 @@ Major(s): Economics, Quantitative Economics, Investment Finance, Japanese Studie
 
 
 ### Past Appointments
+Technical Expert, Apple (2018.12 - 2019.8)
+
 Teaching Assistant, Faculty of Economics, Keio University (2017.9 - 2019.4)  
 Facilitated "Introductory Macroeconomics" with Professor Ippei Fujiwara; unit coordinator for "Introductory Mathematics for Economists"
 
