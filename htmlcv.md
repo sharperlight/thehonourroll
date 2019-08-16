@@ -17,7 +17,7 @@ Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - Pres
 
 
 ### Education
-Master of Philosophy (Economics), University of Oxford (2019.9 - Present)
+Master of Philosophy in Economics, University of Oxford (2019.9 - Present)
 
 Master of Arts (Economics), Keio University (2017.4 - 2019.3)  
 Dissertation: ["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql)  
@@ -82,6 +82,9 @@ Committee Member, Australia-Japan Society of Western Australia, Perth, Australia
 Volunteer, The Japanese Weekend School, Perth, Australia (2015.2)
 
 Vice-President; Treasurer, Japanese Studies Society of UWA, The University of Western Australia (2011.7 - 2012.12)
+
+### Past Papers and Projects
+["Bank of Japan joins the sub-zero club"](https://www.eastasiaforum.org/2016/05/13/bank-of-japan-joins-the-sub-zero-club/), East Asia Forum (2016.5)
 
 
 ### Languages
