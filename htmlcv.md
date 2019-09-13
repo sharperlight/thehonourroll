@@ -74,7 +74,6 @@ C.A. Vargovic Memorial Scholarship, The University of Western Australia (2013.7)
 
 
 ### Past Volunteer and Extra Curricular Activities
-
 Professor Ippei Fujiwara Research Seminar, Keio University (2016.4 - 2019.3)
 
 Committee Member, Australia-Japan Society of Western Australia, Perth, Australia (2015.8 - 2016.2)
@@ -84,6 +83,8 @@ Volunteer, The Japanese Weekend School, Perth, Australia (2015.2)
 Vice-President; Treasurer, Japanese Studies Society of UWA, The University of Western Australia (2011.7 - 2012.12)
 
 ### Past Papers and Projects
+["Episode 26: Economic Booms and Busts with David Murakami"](https://bingethinkingpodcast.com/episodes/2018/2/27/episode-26-economic-booms-and-busts-with-david-murakami), Binge Thinking (2018.2)
+
 ["Bank of Japan joins the sub-zero club"](https://www.eastasiaforum.org/2016/05/13/bank-of-japan-joins-the-sub-zero-club/), East Asia Forum (2016.5)
 
 
