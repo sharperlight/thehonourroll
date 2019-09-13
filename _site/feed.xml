@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-08-08T00:13:33+09:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Oxford</title><link href="/2019/08/07/oxford.html" rel="alternate" type="text/html" title="Oxford" /><published>2019-08-07T00:00:00+09:00</published><updated>2019-08-07T00:00:00+09:00</updated><id>/2019/08/07/oxford</id><content type="html" xml:base="/2019/08/07/oxford.html">&lt;h2 id=&quot;to-the-next-adventure&quot;&gt;To the Next Adventure&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-09-13T14:10:58+01:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Arrival</title><link href="/2019/09/13/arrival.html" rel="alternate" type="text/html" title="Arrival" /><published>2019-09-13T00:00:00+01:00</published><updated>2019-09-13T00:00:00+01:00</updated><id>/2019/09/13/arrival</id><content type="html" xml:base="/2019/09/13/arrival.html">&lt;h2 id=&quot;touchdown&quot;&gt;Touchdown&lt;/h2&gt;
+
+&lt;p&gt;…and so begins – what I am sure will be – a tumultuous two years (for now) at the University of Oxford.&lt;/p&gt;</content><author><name></name></author><summary type="html">Touchdown</summary></entry><entry><title type="html">Facebook</title><link href="/2019/09/05/facebook.html" rel="alternate" type="text/html" title="Facebook" /><published>2019-09-05T00:00:00+01:00</published><updated>2019-09-05T00:00:00+01:00</updated><id>/2019/09/05/facebook</id><content type="html" xml:base="/2019/09/05/facebook.html">&lt;h2 id=&quot;facebook-has-another-privacy-breach&quot;&gt;&lt;a href=&quot;https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/&quot;&gt;Facebook has another Privacy Breach&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Another day, another Facebook user data and privacy breach. From the techcrunch article:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The exposed server contained more than 419 million records over several databases on users across geographies, including 133 million records on U.S.-based Facebook users, 18 million records of users in the U.K., and another with more than 50 million records on users in Vietnam.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But because the server wasn’t protected with a password, anyone could find and access the database.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is getting absolutely ridiculous. You would have to be insane to trust Facebook with any of your private data, let alone a hotdog stand.&lt;/p&gt;
+
+&lt;p&gt;Also, just to remind you all: Facebook owns Instagram and Whatsapp too. Whatever data you have on those platforms isn’t safe either.&lt;/p&gt;</content><author><name></name></author><summary type="html">Facebook has another Privacy Breach</summary></entry><entry><title type="html">Tminus10</title><link href="/2019/09/02/tminus10.html" rel="alternate" type="text/html" title="Tminus10" /><published>2019-09-02T00:00:00+01:00</published><updated>2019-09-02T00:00:00+01:00</updated><id>/2019/09/02/tminus10</id><content type="html" xml:base="/2019/09/02/tminus10.html">&lt;h2 id=&quot;t-minus-10&quot;&gt;T-Minus 10&lt;/h2&gt;
+
+&lt;p&gt;10 days to go before I leave Japan for the UK. My gosh, time flies. Sometimes I still struggle to believe that I’ve been in Japan for this long.&lt;/p&gt;
+
+&lt;p&gt;Perth, and the suburbs of Joondalup and Clarkson, seem so far away now…&lt;/p&gt;
+
+&lt;p&gt;I also have little idea where I’ll end up after the UK. When I’m asked where I plan on being after the UK I usually answer:
+“Hopefully somewhere interesting, or a place where I’m happy.”&lt;/p&gt;</content><author><name></name></author><summary type="html">T-Minus 10</summary></entry><entry><title type="html">Hongkong</title><link href="/2019/08/16/hongkong.html" rel="alternate" type="text/html" title="Hongkong" /><published>2019-08-16T00:00:00+01:00</published><updated>2019-08-16T00:00:00+01:00</updated><id>/2019/08/16/hongkong</id><content type="html" xml:base="/2019/08/16/hongkong.html">&lt;h2 id=&quot;the-fate-of-hong-kong&quot;&gt;The Fate of Hong Kong&lt;/h2&gt;
+
+&lt;p&gt;As I await to board a flight to Hong Kong, I wonder how the situation escalated so acutely in such a short amount of time.&lt;/p&gt;
+
+&lt;p&gt;Hong Kong was perhaps fated to this collision course ever since the days of empire, after it was taken by the British. After that, the British faced a situation of “damned if you, damned if you don’t” when it came to deciding Hong Kong’s sovereignty.&lt;/p&gt;
+
+&lt;p&gt;With 20/20 hindsight it’s easy to criticise the British decision to annex Hong Kong to the PRC. At the time, however, it seemed like the sensible thing to do. The PRC had adopted its “two systems one country” rule under the Deng Xiaoping, and China was an up and coming superpower. There was also hope and optimism that China would soften its stance towards its citizens, and expand their civil rights.&lt;/p&gt;
+
+&lt;p&gt;But, then again, one could’ve lashed out against the British decision citing Tiananmen Square as a prime example of China saying one thing but doing another.&lt;/p&gt;
+
+&lt;p&gt;Whatever the case may be, the people of Hong Kong, and the international community, must come to accept the 1997 annexation. But, China should be held responsible for overreaching and violating its “two system one country” promise. There is very little doubt that the controversial extradition bill was the spark that blew the TNT on this entire situation. That was clearly wrong, and could only come across as disingenuous.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, calm heads will prevail.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Fate of Hong Kong</summary></entry><entry><title type="html">Facebook</title><link href="/2019/08/14/facebook.html" rel="alternate" type="text/html" title="Facebook" /><published>2019-08-14T00:00:00+01:00</published><updated>2019-08-14T00:00:00+01:00</updated><id>/2019/08/14/facebook</id><content type="html" xml:base="/2019/08/14/facebook.html">&lt;h2 id=&quot;facebook-listens-to-and-transcribes-your-messenger-calls&quot;&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2019-08-13/facebook-paid-hundreds-of-contractors-to-transcribe-users-audio&quot;&gt;Facebook Listens to and Transcribes your Messenger Calls&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;In news that is surprising to nobody, Bloomberg reports that Facebook has been hiring external contractors to listen to and transcribe private conversations on its popular Messenger app. Facebook defends its actions by saying that companies such as Amazon, Apple, and Google do the same thing. Unfortunately for Facebook and Zuckerberg, things are not that simple.&lt;/p&gt;
+
+&lt;p&gt;A recent report from &lt;a href=&quot;https://www.theguardian.com/technology/2019/jul/26/apple-contractors-regularly-hear-confidential-details-on-siri-recordings&quot;&gt;The Guardian&lt;/a&gt; revealed that Apple listened to a small sample of audio recordings; but only of customers interacting with Siri. Google too was &lt;a href=&quot;https://www.theverge.com/2018/7/20/17594802/google-home-how-to-delete-conversations-recorded&quot;&gt;caught red handed&lt;/a&gt; recording Google Home and “OK Google!” interactions, and at a much larger scale than what Apple did with Siri. Amazon was the &lt;a href=&quot;https://www.theverge.com/circuitbreaker/2018/3/7/17092334/amazon-alexa-devices-strange-laughter&quot;&gt;worst offender&lt;/a&gt;, as it was revealed that its Echo speakers consistently listened to everything users said.&lt;/p&gt;
+
+&lt;p&gt;But, there is still a big difference between Facebook, and Amazon, Apple, and Google. The latter used voice recordings of customers interacting with their AI voice assistants, while Facebook actually listens to your private conversations with other people. It’s actually a pretty stark difference.&lt;/p&gt;
+
+&lt;p&gt;This is just another reason, on an ever growing list, to take digital privacy seriously.&lt;/p&gt;</content><author><name></name></author><summary type="html">Facebook Listens to and Transcribes your Messenger Calls</summary></entry><entry><title type="html">Oxford</title><link href="/2019/08/07/oxford.html" rel="alternate" type="text/html" title="Oxford" /><published>2019-08-07T00:00:00+01:00</published><updated>2019-08-07T00:00:00+01:00</updated><id>/2019/08/07/oxford</id><content type="html" xml:base="/2019/08/07/oxford.html">&lt;h2 id=&quot;to-the-next-adventure&quot;&gt;To the Next Adventure&lt;/h2&gt;
 
 &lt;p&gt;It brings me great pleasure to belatedly announce to my dear friends and family, that I have been officially accepted as a graduate student into the University of Oxford. I will begin my studies at Oxford this September, with a Master of Philosophy (MPhil) in economics.&lt;/p&gt;
 
@@ -10,11 +53,11 @@
 
 &lt;p&gt;More recently, I wish to express my most sincere gratitude to Professor Ippei Fujiwara. One of the most dedicated, passionate, sharpest and brightest individuals I’ve ever had the privilege of working with. I hope to continue his legacy and passion for research, teaching, and desire for knowledge. I’ve got big shoes to fill, but I approach the challenge with enthusiasm and boundless optimism.&lt;/p&gt;
 
-&lt;p&gt;But, it is also imperative to keep in mind that this is just another step – another journey – in the adventure of life. I look forward to discovering, learning, and achieving even bigger and better things – with all your support. I am absolutely certain that there will be good times and bad times. Times where I will fall, fail, and make mistakes. I ask that you continue to tolerate, teach, and help me with whatever comes next, together.&lt;/p&gt;</content><author><name></name></author><summary type="html">To the Next Adventure</summary></entry><entry><title type="html">Hiroshima</title><link href="/2019/08/06/hiroshima.html" rel="alternate" type="text/html" title="Hiroshima" /><published>2019-08-06T00:00:00+09:00</published><updated>2019-08-06T00:00:00+09:00</updated><id>/2019/08/06/hiroshima</id><content type="html" xml:base="/2019/08/06/hiroshima.html">&lt;h2 id=&quot;todays-the-day&quot;&gt;&lt;a href=&quot;http://hpmmuseum.jp/?lang=eng&quot;&gt;Today’s the Day&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;But, it is also imperative to keep in mind that this is just another step – another journey – in the adventure of life. I look forward to discovering, learning, and achieving even bigger and better things – with all your support. I am absolutely certain that there will be good times and bad times. Times where I will fall, fail, and make mistakes. I ask that you continue to tolerate, teach, and help me with whatever comes next, together.&lt;/p&gt;</content><author><name></name></author><summary type="html">To the Next Adventure</summary></entry><entry><title type="html">Hiroshima</title><link href="/2019/08/06/hiroshima.html" rel="alternate" type="text/html" title="Hiroshima" /><published>2019-08-06T00:00:00+01:00</published><updated>2019-08-06T00:00:00+01:00</updated><id>/2019/08/06/hiroshima</id><content type="html" xml:base="/2019/08/06/hiroshima.html">&lt;h2 id=&quot;todays-the-day&quot;&gt;&lt;a href=&quot;http://hpmmuseum.jp/?lang=eng&quot;&gt;Today’s the Day&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Today marks 74 years since the bombing of Hiroshima. The first – and, tragically, not the last – time nuclear weapons were willingly dropped on a civilian population.&lt;/p&gt;
 
-&lt;p&gt;There is no justification for the mass murder of innocent civilians. Anyone attempting to do so is either an idiot or heinously evil.&lt;/p&gt;</content><author><name></name></author><summary type="html">Today’s the Day</summary></entry><entry><title type="html">Intelsunnycove</title><link href="/2019/07/31/intelsunnycove.html" rel="alternate" type="text/html" title="Intelsunnycove" /><published>2019-07-31T00:00:00+09:00</published><updated>2019-07-31T00:00:00+09:00</updated><id>/2019/07/31/intelsunnycove</id><content type="html" xml:base="/2019/07/31/intelsunnycove.html">&lt;h2 id=&quot;intels-new-𝛍arch&quot;&gt;&lt;a href=&quot;https://www.anandtech.com/show/14514/examining-intels-ice-lake-microarchitecture-and-sunny-cove&quot;&gt;Intel’s New 𝛍arch&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;There is no justification for the mass murder of innocent civilians. Anyone attempting to do so is either an idiot or heinously evil.&lt;/p&gt;</content><author><name></name></author><summary type="html">Today’s the Day</summary></entry><entry><title type="html">Intelsunnycove</title><link href="/2019/07/31/intelsunnycove.html" rel="alternate" type="text/html" title="Intelsunnycove" /><published>2019-07-31T00:00:00+01:00</published><updated>2019-07-31T00:00:00+01:00</updated><id>/2019/07/31/intelsunnycove</id><content type="html" xml:base="/2019/07/31/intelsunnycove.html">&lt;h2 id=&quot;intels-new-𝛍arch&quot;&gt;&lt;a href=&quot;https://www.anandtech.com/show/14514/examining-intels-ice-lake-microarchitecture-and-sunny-cove&quot;&gt;Intel’s New 𝛍arch&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;In a change of pace, rather than talking about Apple, let’s talk about Intel (oh boy…). As many who have been following PC hardware recently would know, Intel has been struggling. They’ve been stuck on their 14nm process for years, their Skylake architecture is looking very long in the tooth, their consumer lineup is a horrible mess, AMD has become a very real threat in enterprise and server markets, and x86’s future remains as uncertain as ever.&lt;/p&gt;
 
@@ -28,13 +71,13 @@
 
 &lt;p&gt;If Intel can deliver on all their promises, then we’re looking at some significant performance, power efficiency, and platform/package efficiency gains. Average instruction per-clock gains are predicted to be roughly 18% over Skylake, on-die integration of Thunderbolt 3 (and hence a doubling of PCIe lanes from the CPU die), a revamped cache and memory controller system, and a large increase in GPU resources all point toward a very impressive new architecture.&lt;/p&gt;
 
-&lt;p&gt;That is, of course, if Intel can deliver on these promises…&lt;/p&gt;</content><author><name></name></author><summary type="html">Intel’s New 𝛍arch</summary></entry><entry><title type="html">Appleq3results</title><link href="/2019/07/31/appleq3results.html" rel="alternate" type="text/html" title="Appleq3results" /><published>2019-07-31T00:00:00+09:00</published><updated>2019-07-31T00:00:00+09:00</updated><id>/2019/07/31/appleq3results</id><content type="html" xml:base="/2019/07/31/appleq3results.html">&lt;h2 id=&quot;apples-2019-q3-financial-results&quot;&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2019/07/apple-reports-third-quarter-results/&quot;&gt;Apple’s 2019 Q3 Financial Results&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;That is, of course, if Intel can deliver on these promises…&lt;/p&gt;</content><author><name></name></author><summary type="html">Intel’s New 𝛍arch</summary></entry><entry><title type="html">Appleq3results</title><link href="/2019/07/31/appleq3results.html" rel="alternate" type="text/html" title="Appleq3results" /><published>2019-07-31T00:00:00+01:00</published><updated>2019-07-31T00:00:00+01:00</updated><id>/2019/07/31/appleq3results</id><content type="html" xml:base="/2019/07/31/appleq3results.html">&lt;h2 id=&quot;apples-2019-q3-financial-results&quot;&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2019/07/apple-reports-third-quarter-results/&quot;&gt;Apple’s 2019 Q3 Financial Results&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;The sheer scale and strength of this company never ceases to amaze me. Here are the headline figures: $53.8 billion in revenue, $10 billion in net profit, and 37.6% gross margin just for this quarter alone. This is roughly a one per cent increase over the previous year-ago quarter.&lt;/p&gt;
 
 &lt;p&gt;These figures are being driven on the back of Mac revenue increasing 11% YoY, iPad revenue up 8% YoY, Services up 13% YoY, and &lt;strong&gt;Wearables up 68% YoY&lt;/strong&gt;. I can only see these figures increasing over the coming year, as Apple continues to fill out these categories with some interesting products such as the new Mac Pro and MacBook Pros.&lt;/p&gt;
 
-&lt;p&gt;As always, &lt;a href=&quot;https://sixcolors.com/post/2019/07/apple-third-quarter-2019-results-and-charts/&quot;&gt;Jason Snell&lt;/a&gt;  over at &lt;a href=&quot;https://sixcolors.com&quot;&gt;sixcolors&lt;/a&gt; has a great graphical representation and breakdown of Apple’s results. Check it out if you have time.&lt;/p&gt;</content><author><name></name></author><summary type="html">Apple’s 2019 Q3 Financial Results</summary></entry><entry><title type="html">Applebuysintelmodem</title><link href="/2019/07/26/applebuysintelmodem.html" rel="alternate" type="text/html" title="Applebuysintelmodem" /><published>2019-07-26T00:00:00+09:00</published><updated>2019-07-26T00:00:00+09:00</updated><id>/2019/07/26/applebuysintelmodem</id><content type="html" xml:base="/2019/07/26/applebuysintelmodem.html">&lt;h2 id=&quot;apple-purchases-intels-modem-business&quot;&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2019/07/apple-to-acquire-the-majority-of-intels-smartphone-modem-business/&quot;&gt;Apple Purchases Intel’s Modem Business&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;As always, &lt;a href=&quot;https://sixcolors.com/post/2019/07/apple-third-quarter-2019-results-and-charts/&quot;&gt;Jason Snell&lt;/a&gt;  over at &lt;a href=&quot;https://sixcolors.com&quot;&gt;sixcolors&lt;/a&gt; has a great graphical representation and breakdown of Apple’s results. Check it out if you have time.&lt;/p&gt;</content><author><name></name></author><summary type="html">Apple’s 2019 Q3 Financial Results</summary></entry><entry><title type="html">Applebuysintelmodem</title><link href="/2019/07/26/applebuysintelmodem.html" rel="alternate" type="text/html" title="Applebuysintelmodem" /><published>2019-07-26T00:00:00+01:00</published><updated>2019-07-26T00:00:00+01:00</updated><id>/2019/07/26/applebuysintelmodem</id><content type="html" xml:base="/2019/07/26/applebuysintelmodem.html">&lt;h2 id=&quot;apple-purchases-intels-modem-business&quot;&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2019/07/apple-to-acquire-the-majority-of-intels-smartphone-modem-business/&quot;&gt;Apple Purchases Intel’s Modem Business&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Add this to the list of things I thought would happen. This is another natural progression of Apple’s – and perhaps more specifically, Tim Cook’s – approach to its platforms and devices.&lt;/p&gt;
 
@@ -59,82 +102,4 @@
       &lt;p&gt;&lt;a href=&quot;https://www.tomsguide.com/opinion/heres-why-apple-is-spending-dollar1-billion-to-buy-intels-modems&quot;&gt;Jason Snell&lt;/a&gt; has an excellent write up covering the Apple-Intel deal over at Tom’s Guide. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Apple Purchases Intel’s Modem Business</summary></entry><entry><title type="html">Japansecretshame</title><link href="/2019/07/24/japansecretshame.html" rel="alternate" type="text/html" title="Japansecretshame" /><published>2019-07-24T00:00:00+09:00</published><updated>2019-07-24T00:00:00+09:00</updated><id>/2019/07/24/japansecretshame</id><content type="html" xml:base="/2019/07/24/japansecretshame.html">&lt;h2 id=&quot;japans-secret-shame-and-the-courage-of-shiori-ito&quot;&gt;&lt;a href=&quot;https://www.nytimes.com/2017/12/29/world/asia/japan-rape.html&quot;&gt;Japan’s Secret Shame and the Courage of Shiori Ito&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Last month I was invited to a public screening of the BBC produced documentary, &lt;a href=&quot;https://www.bbc.co.uk/programmes/articles/3z44Njyr5wzm3wbVMGZ7tFr/shiori-ito-japan-s-attitudes-to-allegations-of-sexual-violence-are-locked-in-the-past?fbclid=IwAR0_v4FXCMuaBYGNg_t5KbYoBUisaqSjWbFX7SmpyOonLtqgfEhU6x0fT54&quot;&gt;Japan’s Secret Shame&lt;/a&gt;. The screening was organised by &lt;a href=&quot;https://telljp.com/?fbclid=IwAR1rAFC4EUCMwhf92pCQ2Qsp7AcwL915fXOhw6SAUXvAuLTpEQ0tE0YxL1g&quot;&gt;tell Japan&lt;/a&gt;, an organisation dedicated to counselling and raising awareness around mental health issues in Japan. They’re a fantastic organisation, and I recommend everyone to check them out.&lt;/p&gt;
-
-&lt;p&gt;Japan’s Secret Shame tells the story of Shiori Ito, a former journalism student who was studying in New York with ambitions to return to Japan to start her career. While in New York she met Noriyuki Yamaguchi, a senior journalist from broadcaster TBS Japan. Mr Yamaguchi made an informal promise to Ms Ito that he would help with her career once her studies were complete in New York, and after she returned back to Tokyo. Ms Ito, like any enthusiastic young person willing to make their mark on the world, took Mr Yamaguchi up on his offer.&lt;/p&gt;
-
-&lt;p&gt;Ms Ito returned to Tokyo once her studies were finished, and she met Mr Yamaguchi in person over dinner. Mr Yamaguchi had other plans for their encounter however.&lt;/p&gt;
-
-&lt;p&gt;Ms Ito alleges that Mr Yamaguchi drugged and raped her.&lt;/p&gt;
-
-&lt;p&gt;Whether or not you believe Ms Ito’s account of events is one thing — the documentary isn’t concerned about that. What the documentary highlights is Japan’s ridiculously archaic and barbaric legal system, completely inept and unable to support victims of sexual violence — whether it be women, men, or — tragically — children.&lt;/p&gt;
-
-&lt;p&gt;Further, the documentary shines a spotlight on the disgusting and idiotic views of politicians such as &lt;a href=&quot;https://www.japantimes.co.jp/news/2018/09/05/national/lgbt-politicians-condemn-diet-members-slur-lgbt-couples-ask-abe/#.XTg4ri1L3UI&quot;&gt;Mio Sugita&lt;/a&gt; and other media shock jocks, who have done nothing but condemn Ms Ito and the thousands of other Japanese women each year who are brave enough to speak out against rape and sexual violence.&lt;/p&gt;
-
-&lt;p&gt;I strongly urge you all, if you have a spare hour, to watch Japan’s Secret Shame. It’s not an easy watch, but it is extremely informative and of critical importance.&lt;/p&gt;
-
-&lt;p&gt;I viewed it at a public screening, and witnessed the impact it had on the audience. As I turned to the rest of audience after the screening, I noticed that dozens of women were left with hands over their mouths and with tears in their eyes. No doubt this issue — this injustice — hit close to home for many.&lt;/p&gt;</content><author><name></name></author><summary type="html">Japan’s Secret Shame and the Courage of Shiori Ito</summary></entry><entry><title type="html">Stevejobs</title><link href="/2019/07/20/stevejobs.html" rel="alternate" type="text/html" title="Stevejobs" /><published>2019-07-20T00:00:00+09:00</published><updated>2019-07-20T00:00:00+09:00</updated><id>/2019/07/20/stevejobs</id><content type="html" xml:base="/2019/07/20/stevejobs.html">&lt;h2 id=&quot;steve-jobs-on-rupert-murdoch-and-fox-news--2010&quot;&gt;Steve Jobs on Rupert Murdoch and Fox News  (2010)&lt;/h2&gt;
-
-&lt;p&gt;It’s no secret that I am a huge fan of Steve Jobs, and believe that his insights into the tech industry and culture were absolutely brilliant. Here is one of his lesser known quotes that remains as one of my favourites:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The axis today is not liberal and conservative, the axis is constructive-destructive, and you’ve cast your lot with the destructive people. Fox has become an incredibly destructive force in our society. You can be better, and this is going to be your legacy if you’re not careful.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">Steve Jobs on Rupert Murdoch and Fox News (2010)</summary></entry><entry><title type="html">Semiconductors</title><link href="/2019/07/16/semiconductors.html" rel="alternate" type="text/html" title="Semiconductors" /><published>2019-07-16T00:00:00+09:00</published><updated>2019-07-16T00:00:00+09:00</updated><id>/2019/07/16/semiconductors</id><content type="html" xml:base="/2019/07/16/semiconductors.html">&lt;h2 id=&quot;an-introduction-to-the-semiconductor-industry&quot;&gt;&lt;a href=&quot;https://www.anandtech.com/show/8223/an-introduction-to-semiconductor-physics-technology-and-industry?fbclid=IwAR1g-nfpxIPwjx0edQYmRl3mv6psyFSliSx14WJ9x1qYMhENqRbkMSFULhE&quot;&gt;An Introduction to the Semiconductor Industry&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;An excellent introduction to semiconductors, CMOS design, and microprocessor architectures by Anandtech.&lt;/p&gt;
-
-&lt;p&gt;Fun fact – and some of my friends know this – after entering university, I was so close to changing my major to electrical engineering. Having tinkered with PCs throughout high school, and being utterly obsessed with how companies like Intel, AMD, and Nvidia built and designed chip architectures such as NetBurst, Hammer, Conroe, R500, G80, R600, RV770, and so on. I wanted to become a semiconductor/chip architect myself!&lt;/p&gt;
-
-&lt;p&gt;This was around the time Apple was making its way into designing its own chips too. I recall there being news about how it was custom designing its own A4 System-on-Chip (SoC). The A4 was an amazing SoC, powering the high performance graphics of the iPhone 4’s Retina display. Apple continued hitting home runs with its custom chip adventures with the A5, A5X, A6, and all the way to today’s industry leading A12X Bionic SoC inside its iPad Pro.&lt;/p&gt;
-
-&lt;p&gt;This stuff fascinates me to this day. Intel’s venerable Skylake architecure (now very long in the tooth), AMD’s Zen 2 and Navi architectures, IBM’s POWER8, and Apple’s SoCs and platform controllers – all of it. I spend way too much reading it how these amazing pieces of technology are designed and built.&lt;/p&gt;
-
-&lt;p&gt;Back when I was an undergrad I decided to give up my dreams on becoming an electrical engineer and chip architect. I was told that I would need to study for at least a decade (B.Eng + M.Sc + PhD) to build up expertise in the area. Even then, I would have to go over the US, Japan, or Taiwan to find a job, and then I would have to compete against graduates from institutions such as CalTech, MIT, and Stanford. I decided that it was too long of a commitment.&lt;/p&gt;
-
-&lt;p&gt;I would, ironically, end up studying economics for over a decade!&lt;/p&gt;</content><author><name></name></author><summary type="html">An Introduction to the Semiconductor Industry</summary></entry><entry><title type="html">Bingethinking</title><link href="/2019/07/15/bingethinking.html" rel="alternate" type="text/html" title="Bingethinking" /><published>2019-07-15T00:00:00+09:00</published><updated>2019-07-15T00:00:00+09:00</updated><id>/2019/07/15/bingethinking</id><content type="html" xml:base="/2019/07/15/bingethinking.html">&lt;h2 id=&quot;binge-thinking-podcast-episode-26-economic-booms-and-busts&quot;&gt;&lt;a href=&quot;https://bingethinkingpodcast.com/episodes/2018/2/27/episode-26-economic-booms-and-busts-with-david-murakami?fbclid=IwAR3KsopIrVunDbMvWkblbBTT45L7U7VFO2Q3LhICWAluPXVUeTGJvOZcqyA&quot;&gt;Binge Thinking Podcast Episode 26: Economic Booms and Busts&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Another gem I found on my Facebook page. My friend &lt;a href=&quot;https://bingethinkingpodcast.com/host&quot;&gt;Caspar Roxburgh&lt;/a&gt; hosts the Binge Thinking podcast:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;‘Binge Thinking’ is a conversation podcast for young intellectuals, activists or just interesting people. Guests share their thoughts on who they are, what they do, and how the modern world looks from their perspective.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The show reveals millennial insights into industries, events, or debates. Listen to smart, funny, eccentric and sometimes outrageous guests you can relate to. If you will live through the next 50 years, hear about those that will be there too. We binge news and current affairs, working life, identity politics, political politics, personal philosophies, relationships and everything else.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I was lucky enough to be invited onto the podcast for its 26th episode back in February 2018. It was a huge blast, and hopefully I can make a return to Caspar’s show again.&lt;/p&gt;</content><author><name></name></author><summary type="html">Binge Thinking Podcast Episode 26: Economic Booms and Busts</summary></entry><entry><title type="html">Theprophet</title><link href="/2019/07/14/theprophet.html" rel="alternate" type="text/html" title="Theprophet" /><published>2019-07-14T00:00:00+09:00</published><updated>2019-07-14T00:00:00+09:00</updated><id>/2019/07/14/theprophet</id><content type="html" xml:base="/2019/07/14/theprophet.html">&lt;h2 id=&quot;the-prophet-by-kahlil-gibran&quot;&gt;“The Prophet” by Kahlil Gibran&lt;/h2&gt;
-
-&lt;p&gt;A beautiful quote:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Your joy is your sorrow unmasked.&lt;br /&gt;
-And the selfsame well from which your laughter rises was oftentimes filled with your tears. And how else can it be?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The deeper the sorrow that carved into your being, the more joy you can contain. Is not the cup that holds your wine the very cup that was burned in the potter’s oven?  And is not the lute that soothes your spirit the very wood that was hollowed with knives?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;When you are joyous, look deep into your heart and you shall find it is only that which has given you sorrow that is giving you joy.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;When you are sorrowful, look again in your heart, and you shall see that in truth you are weeping for that which has been your delight.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Some of you say, “Joy is greater than sorrow,” and other say, “Nay, sorrow is the greater.”&lt;br /&gt;
-But I say unto you, they are inseparable. Together they come, and when one sits alone with you at your board, remember that the other is asleep upon your bed.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Verily you are suspended like scales between your sorrow and your joy.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Only when you are empty are you at standstill and balanced.&lt;br /&gt;
-When the treasure-keeper lifts you to weigh his gold and silver, needs must your joy or your sorrow rise or fall.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">“The Prophet” by Kahlil Gibran</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Apple Purchases Intel’s Modem Business</summary></entry></feed>
