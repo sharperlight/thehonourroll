@@ -19,8 +19,9 @@ Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - Pres
 ### Education
 Master of Philosophy in Economics, University of Oxford (2019.9 - Present)
 
-Master of Arts (Economics), Keio University (2017.4 - 2019.3)  
-Dissertation: ["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql)  
+Master of Arts (Economics), Keio University (2017.4 - 2019.3)
+Academic Supervisor: Professor Ippei Fujiwara  
+Dissertation: ["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql)
 Research Area(s): Macroeconomics, Monetary Policy, DSGE Models
 
 [National Parliamentary Fellowship Program (Japan)](http://asiapacific.anu.edu.au/news-events/all-stories/japan-national-parliamentary-fellowships-program), Australian National University (2016.2 - 2016.6)
@@ -30,7 +31,8 @@ Summer Session in Japanese Language and Culture, Sophia University (2014.6 - 201
 Asian Studies Program, Kansai Gaidai University (2010.1 - 2010.12)
 
 Bachelor of Arts and Bachelor of Economics (Honours), The University of Western Australia (2008.2 - 2013.12)  
-Dissertation: ["Strategic Monetary Policy and the Global Economic Game"](https://drive.google.com/open?id=1B28ZC2KUNb996cj9323pzcOq12-MrlYp)  
+Academic Supervisor: Professor Rodney Tyers and Dr Luciana Fiorini
+Dissertation: ["Strategic Monetary Policy and the Global Economic Game"](https://drive.google.com/open?id=1B28ZC2KUNb996cj9323pzcOq12-MrlYp)
 Major(s): Economics, Quantitative Economics, Investment Finance, Japanese Studies
 
 
