@@ -4,7 +4,7 @@ layout: post
 
 ## [Unequal We Stand](https://www.nber.org/papers/w15483.pdf)
 
-I was fortunate enough to attend the 5th Oxford -- Federal Reserve Bank of new York -- Bank of England monetary economics conference today. The keynote speech was delivered by [Jonathan Heathcote](http://www.jonathanheathcote.com), who is a brilliant research economist at the Minneapolis Federal Reserve.
+I was fortunate enough to attend the 5th Oxford -- Federal Reserve Bank of New York -- Bank of England monetary economics conference today. The keynote speech was delivered by [Jonathan Heathcote](http://www.jonathanheathcote.com), who is a brilliant research economist at the Minneapolis Federal Reserve.
 
 Unfortunately, I don't have access to his presentation slides, but his research showed a very clear and simple result: inequality in the United States is worsening, and it is potentially driven by cyclicality in the business cycle. We already know that recessions disproportionately affect the poor more so than the rich. However, Heathcote's research connects recessions and downswings in the business cycle very convincingly to worsening income inequality in the United States.
 
