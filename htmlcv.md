@@ -37,12 +37,10 @@ Major(s): Economics, Quantitative Economics, Investment Finance, Japanese Studie
 
 
 ### Past Appointments
-Technical Expert, Apple (2018.12 - 2019.8)
+Technical Specialist; Technical Expert, Apple (2017.5 - 2019.8)
 
 Teaching Assistant, Faculty of Economics, Keio University (2017.9 - 2019.4)  
 Facilitated "Introductory Macroeconomics" with Professor Ippei Fujiwara; unit coordinator for "Introductory Mathematics for Economists"
-
-Technical Specialist, Apple (2017.5 - 2018.12)
 
 Research Assistant, The Bank of Japan, Research and Statistics Department (2017.8 - 2018.3)
 
