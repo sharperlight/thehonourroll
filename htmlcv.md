@@ -40,12 +40,12 @@ Major(s): Economics, Quantitative Economics, Investment Finance, Japanese Studie
 Technical Specialist; Technical Expert, Apple (2017.5 - 2019.8)
 
 Teaching Assistant, Faculty of Economics, Keio University (2017.9 - 2019.4)  
-Facilitated "Introductory Macroeconomics" with Professor Ippei Fujiwara; unit coordinator for "Introductory Mathematics for Economists"
+Facilitated "Introductory Macroeconomics" with Professor Ippei Fujiwara; Unit Coordinator for "Introductory Mathematics for Economists"
 
 Research Assistant, The Bank of Japan, Research and Statistics Department (2017.8 - 2018.3)
 
 Parliamentary Fellow, The National Diet of Japan (2016.2 - 2016.6)  
-The Office of the Honourable Hideki Makihara; The Office of the Honourable Motohisa Furukawa
+Office of the Honourable Hideki Makihara; Office of the Honourable Motohisa Furukawa
 
 Policy Officer, The Department of the Premier and Cabinet, The State Government of Western Australia (2015.1 - 2016.2)  
 Economic and Deregulation Subdivision; Office of Security and Emergency Coordination; and Lands, Approvals, and Native Title Unit
