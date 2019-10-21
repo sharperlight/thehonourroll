@@ -15,6 +15,8 @@ Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - Pres
 
 ["Commodity Currencies and Disaster Risk (working title)"](https://drive.google.com/open?id=1X_UVCYTe10ZBDMINkCgloLgtJhEETmWq) with Nguyen and Viswanath
 
+"Japan's part time workers need tighter reforms", East Asia Forum (*forthcoming*)
+
 
 ### Education
 Master of Philosophy in Economics, University of Oxford (2019.9 - Present)
