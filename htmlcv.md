@@ -34,7 +34,7 @@ Asian Studies Program, Kansai Gaidai University (2010.1 - 2010.12)
 
 Bachelor of Arts and Bachelor of Economics (Honours), The University of Western Australia (2008.2 - 2013.12)  
 Academic Supervisor: Professor Rodney Tyers and Dr Luciana Fiorini
-Dissertation: ["Strategic Monetary Policy and the Global Economic Game"](https://drive.google.com/open?id=1B28ZC2KUNb996cj9323pzcOq12-MrlYp)
+Dissertation: ["Strategic Monetary Policy and the Global Economic Game"](https://drive.google.com/open?id=1B28ZC2KUNb996cj9323pzcOq12-MrlYp)  
 Major(s): Economics, Quantitative Economics, Investment Finance, Japanese Studies
 
 
