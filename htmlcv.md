@@ -15,8 +15,6 @@ Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - Pres
 
 ["Commodity Currencies and Disaster Risk (working title)"](https://drive.google.com/open?id=1X_UVCYTe10ZBDMINkCgloLgtJhEETmWq) with Nguyen and Viswanath
 
-"Japan's part time workers need tighter reforms", East Asia Forum (*forthcoming*)
-
 
 ### Education
 Master of Philosophy in Economics, University of Oxford (2019.9 - Present)
@@ -85,6 +83,8 @@ Volunteer, The Japanese Weekend School, Perth, Australia (2015.2)
 Vice-President; Treasurer, Japanese Studies Society of UWA, The University of Western Australia (2011.7 - 2012.12)
 
 ### Past Papers and Projects
+["Japan's part time workers need tighter reforms"](https://www.eastasiaforum.org/2019/11/02/japans-part-time-workers-need-tighter-reforms/), East Asia Forum (2019.11)
+
 ["Episode 26: Economic Booms and Busts with David Murakami"](https://bingethinkingpodcast.com/episodes/2018/2/27/episode-26-economic-booms-and-busts-with-david-murakami), Binge Thinking (2018.2)
 
 ["Bank of Japan joins the sub-zero club"](https://www.eastasiaforum.org/2016/05/13/bank-of-japan-joins-the-sub-zero-club/), East Asia Forum (2016.5)
