@@ -21,7 +21,7 @@ Master of Philosophy in Economics, University of Oxford (2019.9 - Present)
 
 Master of Arts (Economics), Keio University (2017.4 - 2019.3)  
 Academic Supervisor: Professor Ippei Fujiwara  
-Dissertation: ["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql)
+Dissertation: ["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql)  
 Research Area(s): Macroeconomics, Monetary Policy, DSGE Models
 
 [National Parliamentary Fellowship Program (Japan)](http://asiapacific.anu.edu.au/news-events/all-stories/japan-national-parliamentary-fellowships-program), Australian National University (2016.2 - 2016.6)
