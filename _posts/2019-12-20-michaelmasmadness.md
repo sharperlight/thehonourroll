@@ -1,0 +1,21 @@
+---
+layout: post
+---
+
+## Michaelmas Madness, Hopeful Hilary
+
+It's been a while since I provided an update. Apologies for that. This past week brought about the conclusion of the first trimester at the University of Oxford. For those unaware, Oxford has [three trimesters](https://www.ox.ac.uk/about/facts-and-figures/dates-of-term?wssl=1) each academic year: Michaelmas, Hilary, and Trinity. With the Michaelmas trimester over, I have a brief [desperately needed] winter break before the Hilary trimester.
+
+Some reflection of my first trimester at Oxford is in order, I think. Where on earth do I begin? Michaelmas began with me in a bit of a funk, and facing some pretty challenging personal circumstances. Nevertheless, there was no time to stew or conduct too much introspection. I was blessed with an opportunity to rise up and meet the daunting task in front of me head on. To say that the programme at Oxford is mentally and physically draining would be an understatement. But it is strangely satisfying. It's quite hard to describe the joy when you are able to complete or solve a complex mathematical problem at three o'clock in the morning in the college library.
+
+On that note, I have been lucky to meet and make some fantastic new friends at Oxford. It truly is a blessing to have the chance to cross paths with amazingly talented people from all walks of life. Without them, there really would be no reprieve from the coursework, and meals would be no where near as enjoyable. And, of course, the dreaded problem sets are actually tolerable and somewhat exhilarating with good company.
+
+Oxford, outside of the university, is a lovely quaint town. Initially it was jarring switching from Tokyo, but now that things have settled down, I find it quite nice. As you sit in one of Oxford's libraries (my favourite is the [Radcliffe Camera](https://en.wikipedia.org/wiki/Radcliffe_Camera)), staring outside on a rainy day, it's quite easy to forget about space and time. For a brief moment, all of the problems of the world disappear and fade away as you immerse yourself in the atmosphere and tranquility of your surroundings.
+
+On the flip side, there is London, which is fairly accessible from Oxford. It is complete mayhem and absolutely hectic. But I love it -- and I can understand why so many other people do too. I've only been to London three times during this initial Michaelmas trimester. While there are certainly parallels with cities like Tokyo and Sydney, London, even at its heart, manages to retain many hidden gems and small boutique venues. The city is also home to a plethora of museums, historical sites, and the city has preserved a surprisingly large amount of parks and forestation. The end result is that one can always stumble upon something new during a walkabout in the city.
+
+I am now in Osaka, Japan, enjoying a very Autumn-like afternoon. I'll be here until mid January, before I jet off to Perth. Osaka will always have a special place in my heart. It was my gateway to Japan, it was where I forged my adult identity, and it's home to friends and relatives. Speaking of which, a couple of days ago I was blessed to catch up with a dear friend here. Despite having only a brief amount of time, it was a much needed nostalgic but refreshing occasion.  
+
+I have said this many times before, but it's worth repeating: Whatever successes or accomplishments I have and make are owed entirely to the amazing people that have helped, supported, and nurtured me. I stand on the shoulders of giants -- family, friends, teachers, and mentors, people that I love, care for, and deeply respect. Compared to those that surround me, I am a mere fool with much to learn. I was pleasantly reminded of this during my catch up here in Osaka. I firmly believe that this world has a shortage of people with a keen and sharp eye for what is good and true -- for people who take responsibility and ownership to make the world a better place than when they found it. I am indebted to good people like this to help their cause and do my best.
+
+So that was Michaelmas in a nutshell. With my batteries recharged, confidence renewed, and a reminder for why I am where I am, I look forward to the Hilary trimester. 
